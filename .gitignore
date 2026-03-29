@@ -1,0 +1,21 @@
+# Bytecode y caché de Python (no subir al repo)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Herramientas / IDE
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
